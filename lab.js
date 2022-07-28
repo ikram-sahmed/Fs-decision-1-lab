@@ -8,12 +8,19 @@
 
 
 
-let lovesCode = true;
+/*let lovesCode = true;
 
 if (lovesCode === true) {
   console.log('I love to code!')
 } else {
   console.log("Coding has it's challenges.")
+}*/
+
+let lovesCode = true;
+if (lovesCode === true) {
+  console.log("I love to code");
+} else {
+  console.log("Coding has it's challenges");
 }
 
 
@@ -129,11 +136,14 @@ while (score < passingScore) {
 */
 
 //CODE HERE
-let changeMyMind = true
+
+let changeMyMind = true 
 
 if (changeMyMind) {
   changeMyMind = false
 } else {
   changeMyMind = true
 }
+
+
 
